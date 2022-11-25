@@ -1,1 +1,0 @@
-﻿ Get-BCArtifactUrl -country es -select All -type OnPrem -version 14.11 -verbose

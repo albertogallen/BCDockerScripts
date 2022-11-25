@@ -32,4 +32,3 @@ New-NavContainer @databaseParams `
 
 
 
-Get-Bccontainerinfo -containername bc1411es | where-object { $_.name - like '*asser*' } | select-object -property name, version
